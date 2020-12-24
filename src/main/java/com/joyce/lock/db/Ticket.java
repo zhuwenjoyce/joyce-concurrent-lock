@@ -6,6 +6,6 @@ package com.joyce.lock.db;
  */
 public class Ticket {
 
-    public static Integer count = 100;
+    public static Integer count = 3;
 
 }
